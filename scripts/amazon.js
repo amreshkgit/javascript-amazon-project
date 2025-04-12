@@ -1,3 +1,6 @@
+import {cart} from '../data/cart.js';
+
+//import {cart as mycart} from '../data/cart.js'; we can rename the import using as
 
 let productsHTML = '';
 
